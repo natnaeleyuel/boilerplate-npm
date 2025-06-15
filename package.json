@@ -11,5 +11,7 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Natnael Eyuel"
+	"author": {
+		"name": "Natnael Eyuel"
+	}
 }
